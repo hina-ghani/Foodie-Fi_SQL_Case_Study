@@ -9,7 +9,7 @@ The goal of this beginner-friendly project is to analyse the database of an onli
 Schema- Cooking Platform Database
 ![Schema_diagram](https://github.com/hina-ghani/Foodie-Fi_SQL_Case_Study/assets/168838939/3d528ce0-3b9c-4962-b0a8-568ff553ca15)
 
-Click on the below link to read my article to gain a better understanding of this case study and queries used to solve the questions.
+To learn more about this case study and the queries that were used to answer it, click the link below to read my article.
 
 
 https://medium.com/@hinaaaghani/sql-case-study-challenge-foodie-fi-724d59f40d87
