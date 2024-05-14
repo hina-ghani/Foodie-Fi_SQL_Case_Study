@@ -6,6 +6,7 @@ The goal of this beginner-friendly project is to analyse the database of an onli
 
 **Database and tools:**
 •	Postgre SQL
+
 •	MySQL Workbench
 
 Schema- Cooking Platform Database
