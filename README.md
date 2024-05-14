@@ -6,5 +6,5 @@ The goal of this beginner-friendly project is to analyse the database of an onli
 •	Postgre SQL
 •	MySQL Workbench
 
-Scheme- Cooking Platform Database
+Schema- Cooking Platform Database
 ![Schema_diagram](https://github.com/hina-ghani/Foodie-Fi_SQL_Case_Study/assets/168838939/3d528ce0-3b9c-4962-b0a8-568ff553ca15)
