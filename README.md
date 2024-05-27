@@ -5,7 +5,7 @@ The goal of this beginner-friendly project is to analyse the database of an onli
 ![DANNY'S DINER_20240514_152241_0000](https://github.com/hina-ghani/Foodie-Fi_SQL_Case_Study/assets/168838939/c7282f18-e859-4a42-ae98-366f225cdb2c)
 
 
-**Database and tools:**
+### **Database and tools:**
 
 •	Postgre SQL
 
